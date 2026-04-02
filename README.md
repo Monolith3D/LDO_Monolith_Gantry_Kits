@@ -14,7 +14,36 @@
 * AWD front extrusion support for toolchangers
 
 ## Vendors
-- Soon
+### US 
+West3D: https://west3d.com/products/monolith-cnc-gantry-by-ldo-systems-v2-4-and-trident-compatible-with-2wd-and-awd \
+Fabreeko: https://www.fabreeko.com/products/monolith-gantry-cnc-kit-by-ldo \
+KB-3D: https://kb-3d.com/store/ 
+
+### Canada 
+3D Lab Tech: https://www.3dlabtech.ca/product/monolith-gantry/
+
+### Australia 
+Dremc: https://store.dremc.com.au/products/ldo-monolith-cnc-gantry-kit-v2-4-trident?_pos=2&_sid=165a04a36&_ss=r
+
+### UK 
+123-3D: https://www.123-3d.co.uk/ \
+onetwo3D: https://www.onetwo3d.co.uk/product/ldo-monolith-cnc-gantry-kit/
+
+### Germany
+3DPartner: https://www.partner-3d.de/3d-druck-ersatzteile/
+
+### France
+MyRigs: https://myrigs3d.com/
+
+### Hungary
+Zen3D Laboratories: https://shop.zen3d.eu/cnc-monolith-gantry
+
+### Russia
+RRF3D: https://rrf3dshop.ru/catalog/mekhanika/motory/
+
+### India
+DConqueror3D: https://shop.zen3d.eu/cnc-monolith-gantry
+
 
 ## Recommendations
 
