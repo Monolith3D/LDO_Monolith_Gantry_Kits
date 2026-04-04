@@ -25,7 +25,7 @@
 **[KB-3D](https://kb-3d.com/store/ )**
 
 ### Canada 
-**[3D Lab Tech](https://www.3dlabtech.ca/product/monolith-gantry/)**
+**[3D Lab Tech](https://www.3dlabtech.ca/product/ldo-monolith-cnc-gantry-kit/)**
 
 ### Australia 
 **[Dremc](https://store.dremc.com.au/products/ldo-monolith-cnc-gantry-kit-v2-4-trident?_pos=2&_sid=165a04a36&_ss=r)**
