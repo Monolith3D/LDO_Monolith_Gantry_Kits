@@ -19,7 +19,7 @@ Before ordering parts or starting assembly, choose the correct path:
 7. Confirm [stepper compatibility](#steppers) and belt choice.
 8. Open the correct manual and check [batch notes](#batch-notes).
 
-You can find the user manuals here: [V2](Docs/LDO_Monolith_Gantry_Kit_Manual_V2.pdf) / [VT](Docs/LDO_Monolith_Gantry_Kit_Manual_VT.pdf).
+Find the assembly manuals in [Docs](Docs/).
 
 ## Vendors
 

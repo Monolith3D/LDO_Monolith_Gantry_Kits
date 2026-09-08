@@ -3,7 +3,10 @@
 
 ## User Manuals
 
-[V2](LDO_Monolith_Gantry_Kit_Manual_V2.pdf) / [VT](LDO_Monolith_Gantry_Kit_Manual_VT.pdf)
+| Printer | Batch 1 | Batch 2+ |
+|---|---|---|
+| Voron V2 | [V2 Batch 1](ldo-monolith-gantry-v2-batch-1.pdf) | [V2 Batch 2+](ldo-monolith-gantry-v2-batch-2-plus.pdf) |
+| Voron Trident | [Trident Batch 1](ldo-monolith-gantry-trident-batch-1.pdf) | [Trident Batch 2+](ldo-monolith-gantry-trident-batch-2-plus.pdf) |
 
 ## Batch Notes
 
