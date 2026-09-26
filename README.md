@@ -21,8 +21,8 @@ Before ordering parts or starting assembly, choose the correct path:
 1. Choose the correct [kit variant](#what-is-included): V2 or VT.
 2. Choose the [drive layout](#choosing-2wd-or-awd): 2WD or AWD.
 3. Choose the [fit/clearance layout](#np-and-ft): NP or FT.
-4. Check [toolhead and carriage compatibility](#toolhead-carriage-and-homing).
-5. Choose the [homing setup](#toolhead-carriage-and-homing): switches or sensorless.
+4. Check [toolhead and carriage compatibility](#toolhead-compatibility).
+5. Choose the [homing setup](https://github.com/Monolith3D/Toolheads_for_Monolith/tree/main/Design_Guidelines#clearance-and-endstops): switches or sensorless.
 6. Check the [printed parts and shared files](#printed-parts-and-shared-files).
 7. Confirm [stepper compatibility](#steppers) and belt choice.
 8. Open the correct manual and check [batch notes](#batch-notes).
@@ -101,34 +101,15 @@ Physical fit and performance recommendation are separate questions. A layout can
 
 The user manuals include the detailed NP and FT layout explanation, clearance notes, and spacer placement.
 
-## Toolhead, Carriage, and Homing
+## Toolhead Compatibility
 
-The Monolith Gantry uses a flipped belt path, so toolheads and carriages need Monolith belt path support. Physical fit alone is not enough; travel, belt clips, front clearance, endstop behavior, cable path, and input-shaper behavior all matter.
-
-Use a performance-oriented toolhead or carriage with native Monolith belt path support when possible. Third-party toolheads may need Monolith-specific belt clips, modified clips, or a validated carriage variant.
-
-Treat the X-rail as part of the toolhead choice. Toolhead stiffness depends on it, so check the [rail preload guidance](#rail-notes) before buying rails.
-
-Gantry-mounted endstop switches are supported. Sensorless homing can work and is simpler, but it is not required.
-
-The shared [Y-endstop housing](https://github.com/Monolith3D/Monolith_Gantry/blob/main/STLs/Y_endstop_housing.stl) mounts on the rear extrusion between the rear mounts and is triggered by the X-beam.
-
-There is no universal toolhead-mounted X-switch location across all Monolith-compatible toolheads, carriages, and XY-joint variants. The kit therefore supports a gantry-side X-endstop holder mounted to the Y-extrusion.
-
-If using the shared [X-endstop housing](https://github.com/Monolith3D/Monolith_Gantry/blob/main/STLs/X_endstop_housing.stl), home Y before X. The X-switch position only becomes meaningful after the gantry is at the correct Y-position.
-
-The user manuals include the detailed belt path, endstop placement, and homing notes for each kit variant.
+See [Toolheads for Monolith](https://github.com/Monolith3D/Toolheads_for_Monolith) for compatible toolheads, belt clamps, and guidance on stiffness, clearance, and endstops.
 
 ## Rail Notes
 
-The LDO milled XY-joints use MGN9H Y-carriages.
+The LDO milled XY-joints use MGN9H Y-carriages. Z0 / no preload is recommended for the Y-rails to avoid extra wear or binding. Other preload classes can work.
 
-Recommended rail preloads are not hard requirements. Other preload classes can work, but this is the ideal direction:
-
-- Y-rails: Z0 / no preload. Extra rail preload can add wear or binding.
-- X-rail: Z2 / highest preload available. This is important for toolhead rigidity, especially with AWD, high belt tension, heavier toolheads, or toolheads with poor center of mass.
-
-X-rail advice is separate. Do not read MGN12H X-rail advice as MGN12H XY-joint compatibility.
+For the separate X-rail recommendation, see the [toolhead design guidelines](https://github.com/Monolith3D/Toolheads_for_Monolith/tree/main/Design_Guidelines#stiffness-and-center-of-mass).
 
 ## Batch Notes
 
