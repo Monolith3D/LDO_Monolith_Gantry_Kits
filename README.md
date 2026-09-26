@@ -4,7 +4,7 @@
 
 Official milled [Monolith Gantry](https://github.com/Monolith3D/Monolith_Gantry) kits for Voron V2 and Voron Trident, manufactured by [LDO](https://ldomotion.com/).
 
-These kits provide the CNC/milled parts and supporting hardware needed to build a Monolith Gantry in a reseller-ready package. They support both 2WD and AWD configurations for the selected printer variant, but the best configuration depends on the rest of the machine.
+Milled parts and supporting hardware for 2WD or AWD builds.
 
 ## Start Here
 
@@ -16,38 +16,34 @@ These kits provide the CNC/milled parts and supporting hardware needed to build 
   </picture>
 </a>
 
-Before ordering parts or starting assembly, choose the correct path:
+Monolith Builder guides you through assembly step by step with interactive 3D animations. It will replace the PDF manuals, which remain available during the transition.
 
-1. Choose the correct [kit variant](#what-is-included): V2 or VT.
-2. Choose the [drive layout](#choosing-2wd-or-awd): 2WD or AWD.
-3. Choose the [fit/clearance layout](#np-and-ft): NP or FT.
-4. Check [toolhead and carriage compatibility](#toolhead-compatibility).
-5. Choose the [homing setup](https://github.com/Monolith3D/Toolheads_for_Monolith/tree/main/Design_Guidelines#clearance-and-endstops): switches or sensorless.
-6. Check the [printed parts and shared files](#printed-parts-and-shared-files).
-7. Confirm [stepper compatibility](#steppers) and belt choice.
-8. Open the correct manual and check [batch notes](#batch-notes).
-
-Find the assembly manuals in [Docs](Docs/).
+- [PDF assembly manuals](Docs/)
+- [Printed parts](STLs/)
+- [Batch notes](Docs/batch_notes.md)
 
 ## Vendors
 
-US: [West3D](https://west3d.com/products/monolith-cnc-gantry-by-ldo-systems-v2-4-and-trident-compatible-with-2wd-and-awd), [Fabreeko](https://www.fabreeko.com/products/monolith-gantry-cnc-kit-by-ldo), [KB-3D](https://kb-3d.com/store/).
+### Gantry kits
 
-Canada: [3D Lab Tech](https://www.3dlabtech.ca/product/ldo-monolith-cnc-gantry-kit/).
+- US: [West3D](https://west3d.com/products/monolith-cnc-gantry-by-ldo-systems-v2-4-and-trident-compatible-with-2wd-and-awd), [Fabreeko](https://www.fabreeko.com/products/monolith-gantry-cnc-kit-by-ldo), [KB-3D](https://kb-3d.com/store/)
+- Canada: [3D Lab Tech](https://www.3dlabtech.ca/product/ldo-monolith-cnc-gantry-kit/)
+- Australia: [Dremc](https://store.dremc.com.au/products/ldo-monolith-cnc-gantry-kit-v2-4-trident?_pos=2&_sid=165a04a36&_ss=r)
+- UK: [123-3D](https://www.123-3d.co.uk/), [onetwo3D](https://www.onetwo3d.co.uk/product/ldo-monolith-gantry-kit/)
+- Germany: [3DPartner](https://www.partner-3d.de/3d-druck-ersatzteile/), [Meltbro](https://meltbro.de/monolith-cnc-gantry-kit-von-ldo-2wd-awd-voron-2-4-trident-fuer-9mm-zahnriemen.html)
+- France: [MyRigs](https://myrigs3d.com/)
+- Hungary: [Zen3D Laboratories](https://shop.zen3d.eu/cnc-monolith-gantry)
+- Russia: [RRF3D](https://rrf3dshop.ru/catalog/mekhanika/motory/)
+- India: [DConqueror3D](https://dc3d.in/), [Zee3D](https://www.zee3d.in/product-page/monolith-cnc-gantry-kit)
+- Sweden: [3D Katten](https://3dkatten.se/products/monolith-cnc-kit-2wd-awd)
+- Denmark: 3DO ([V2](https://3do.dk/en/frame-kits/4621-ldo-monolith-cnc-gantry-kit-voron-24-v2.html), [Trident](https://3do.dk/en/frame-kits/4622-ldo-monolith-cnc-gantry-kit-voron-trident-vt.html))
+- China: [LDO direct](https://store.ldomotion.com/products/ldo-monolith-cnc-gantry-kit-for-voron-2-4-trident)
 
-Australia: [Dremc](https://store.dremc.com.au/products/ldo-monolith-cnc-gantry-kit-v2-4-trident?_pos=2&_sid=165a04a36&_ss=r).
+### Milled Z-joints
 
-UK: [123-3D](https://www.123-3d.co.uk/), [onetwo3D](https://www.onetwo3d.co.uk/product/ldo-monolith-gantry-kit/).
-
-Germany: [3DPartner](https://www.partner-3d.de/3d-druck-ersatzteile/).
-
-France: [MyRigs](https://myrigs3d.com/).
-
-Hungary: [Zen3D Laboratories](https://shop.zen3d.eu/cnc-monolith-gantry).
-
-Russia: [RRF3D](https://rrf3dshop.ru/catalog/mekhanika/motory/).
-
-India: [DConqueror3D](https://dc3d.in/).
+- US: [West3D](https://west3d.com/products/monolith-cnc-z-joint-kit-by-ldo-motors)
+- France: [MyRigs](https://myrigs3d.com/products/ldo-monolith-cnc-z-joint-kit)
+- Hungary: [Zen3D Laboratories](https://shop.zen3d.eu/monolith-cnc-z-joint-kit)
 
 ## What is Included
 
