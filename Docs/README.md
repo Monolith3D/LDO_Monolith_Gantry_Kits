@@ -1,7 +1,4 @@
-> [!IMPORTANT]
-> **The documentation is updated regularly. Make sure you have the latest version before assembly.**
-
-## User Manuals
+## Monolith Builder
 
 <a href="https://build.monolith3d.xyz/">
   <picture>
@@ -11,10 +8,14 @@
   </picture>
 </a>
 
+Monolith Builder guides you through assembly step by step with interactive 3D animations. Guides are versioned in Builder. It will replace the PDF manuals, which remain available during the transition.
+
+## PDF Manuals
+
 | Printer | Batch 1 | Batch 2+ |
 |---|---|---|
-| Voron V2 | [V2 Batch 1](ldo-monolith-gantry-v2-batch-1.pdf) | [V2 Batch 2+](ldo-monolith-gantry-v2-batch-2-plus.pdf) |
-| Voron Trident | [Trident Batch 1](ldo-monolith-gantry-trident-batch-1.pdf) | [Trident Batch 2+](ldo-monolith-gantry-trident-batch-2-plus.pdf) |
+| Voron V2 | [V2 Batch 1](LDO_Monolith_Gantry_Kit_Manual_V2_Batch_1.pdf) | [V2 Batch 2+](LDO_Monolith_Gantry_Kit_Manual_V2_Batch_2_Plus.pdf) |
+| Voron Trident | [Trident Batch 1](LDO_Monolith_Gantry_Kit_Manual_VT_Batch_1.pdf) | [Trident Batch 2+](LDO_Monolith_Gantry_Kit_Manual_VT_Batch_2_Plus.pdf) |
 
 ## Batch Notes
 
