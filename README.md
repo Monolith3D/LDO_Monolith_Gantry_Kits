@@ -8,6 +8,14 @@ These kits provide the CNC/milled parts and supporting hardware needed to build 
 
 ## Start Here
 
+<a href="https://build.monolith3d.xyz/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monolith3D/MISC/main/Common_repo_files/monolith-builder-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monolith3D/MISC/main/Common_repo_files/monolith-builder-light.png">
+    <img src="https://raw.githubusercontent.com/Monolith3D/MISC/main/Common_repo_files/monolith-builder-light.png" alt="Get started in Monolith Builder" width="320" height="140">
+  </picture>
+</a>
+
 Before ordering parts or starting assembly, choose the correct path:
 
 1. Choose the correct [kit variant](#what-is-included): V2 or VT.
@@ -124,14 +132,7 @@ X-rail advice is separate. Do not read MGN12H X-rail advice as MGN12H XY-joint c
 
 ## Batch Notes
 
-Read the [latest kit notes](Docs/README.md) before assembly.
-
-Batch 1 has two documented notes:
-
-- Flanged-bearing hole depth issue: [LDO announcement and factory shim correction](Docs/batch_1.md)
-- Stepper screw engagement issue: [washer guidance](Docs/batch_1.md)
-
-If a batch note is not listed for your kit, do not assume an older issue still applies.
+Check the [batch notes](Docs/batch_notes.md) before assembly.
 
 ## Support
 
