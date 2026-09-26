@@ -8,7 +8,7 @@
   </picture>
 </a>
 
-Monolith Builder guides you through assembly step by step with interactive 3D animations. Guides are versioned in Builder. It will replace the PDF manuals, which remain available during the transition.
+Monolith Builder guides you through assembly step by step with interactive 3D animations. It will replace the PDF manuals, which remain available during the transition.
 
 ## PDF Manuals
 
