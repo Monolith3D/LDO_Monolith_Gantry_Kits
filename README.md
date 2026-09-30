@@ -26,17 +26,19 @@ Monolith Builder guides you through assembly step by step with interactive 3D an
 
 ### Gantry kits
 
-- US: [West3D](https://west3d.com/products/monolith-cnc-gantry-by-ldo-systems-v2-4-and-trident-compatible-with-2wd-and-awd), [Fabreeko](https://www.fabreeko.com/products/monolith-gantry-cnc-kit-by-ldo), [KB-3D](https://kb-3d.com/store/)
+- US: [West3D](https://west3d.com/products/monolith-cnc-gantry-by-ldo-systems-v2-4-and-trident-compatible-with-2wd-and-awd), [Fabreeko](https://www.fabreeko.com/products/monolith-gantry-cnc-kit-by-ldo), [KB-3D](https://kb-3d.com/store/motion/8785-9638-ldo-monolith-awd-9mm-cnc-gantry-kit-r1-multiple-types.html)
 - Canada: [3D Lab Tech](https://www.3dlabtech.ca/product/ldo-monolith-cnc-gantry-kit/)
 - Australia: [Dremc](https://store.dremc.com.au/products/ldo-monolith-cnc-gantry-kit-v2-4-trident?_pos=2&_sid=165a04a36&_ss=r)
-- UK: [123-3D](https://www.123-3d.co.uk/), [onetwo3D](https://www.onetwo3d.co.uk/product/ldo-monolith-gantry-kit/)
-- Germany: [3DPartner](https://www.partner-3d.de/3d-druck-ersatzteile/), [Meltbro](https://meltbro.de/monolith-cnc-gantry-kit-von-ldo-2wd-awd-voron-2-4-trident-fuer-9mm-zahnriemen.html)
-- France: [MyRigs](https://myrigs3d.com/)
-- Hungary: [Zen3D Laboratories](https://shop.zen3d.eu/cnc-monolith-gantry)
-- Russia: [RRF3D](https://rrf3dshop.ru/catalog/mekhanika/motory/)
-- India: [DConqueror3D](https://dc3d.in/), [Zee3D](https://www.zee3d.in/product-page/monolith-cnc-gantry-kit)
+- UK: 123-3D ([V2](https://www.123-3d.co.uk/LDO-Monolith-CNC-Gantry-KIT-Voron-2-4-LDO-MLG-V2-i15158.html), [Trident](https://www.123-3d.co.uk/LDO-Monolith-CNC-Gantry-KIT-Voron-Trident-LDO-MLG-VT-i15159.html)), [onetwo3D](https://www.onetwo3d.co.uk/product/ldo-monolith-cnc-gantry-kit/), [JB3D](https://jb3d.uk/product/cnc-monolith-gantry-by-cloakedwayne/)
+- Germany: [3DPartner](https://www.partner-3d.de/3d-druck-ersatzteile/)
+- France: [MyRigs](https://myrigs3d.com/products/monolith-cnc-gantry-by-ldo-systems-v2-4-and-trident-compatible-with-2wd-and-awd)
+- Hungary: Zen3D Laboratories ([V2](https://shop.zen3d.eu/cnc-monolith-gantry), [Trident](https://shop.zen3d.eu/cnc-monolith-gantry-trident))
+- Russia: RRF3D ([V2](https://rrf3dshop.ru/catalog/mekhanika/nabory/nabor-monolith-cnc-gantry-dlya-voron-2-4r2/), [Trident](https://rrf3dshop.ru/catalog/mekhanika/nabory/nabor-monolith-cnc-gantry-4awd-dlya-voron-trident/))
+- India: [DConqueror3D](https://dc3d.in/shop/voron-v2-4-parts/ldo-monolith-cnc-gantry-kit/), [Zee3D](https://www.zee3d.in/product-page/monolith-cnc-gantry-kit)
 - Sweden: [3D Katten](https://3dkatten.se/products/monolith-cnc-kit-2wd-awd)
 - Denmark: 3DO ([V2](https://3do.dk/en/frame-kits/4621-ldo-monolith-cnc-gantry-kit-voron-24-v2.html), [Trident](https://3do.dk/en/frame-kits/4622-ldo-monolith-cnc-gantry-kit-voron-trident-vt.html))
+- Norway: [Frem3D](https://frem3d.no/en/products/monolith-cnc-gantry-av-ldo-systems-v2-4-og-trident-med-2wd-og-awd)
+- Netherlands: [Levendigs](https://levendigs.com/)
 - China: [LDO direct](https://store.ldomotion.com/products/ldo-monolith-cnc-gantry-kit-for-voron-2-4-trident)
 
 ### Milled Z-joints
