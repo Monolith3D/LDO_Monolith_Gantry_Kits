@@ -6,10 +6,10 @@ This folder contains the LDO-kit-specific printed parts and helper tools.
 
 - [LDO_V2_FT_spacer.stl](LDO_V2_FT_spacer.stl)
 - [LDO_9mm_VT_NP_spacer.stl](LDO_9mm_VT_NP_spacer.stl)
-- [LDO_9mm_pulley_alignment_helper.stl](X_Tools/LDO_9mm_pulley_alignment_helper.stl)
-- [Cable_management_clip_L.stl](IX_Cable_management/Cable_management_clip_L.stl)
-- [Cable_management_clip_M.stl](IX_Cable_management/Cable_management_clip_M.stl)
-- [Cable_management_clip_S.stl](IX_Cable_management/Cable_management_clip_S.stl)
+- [LDO_9mm_pulley_alignment_helper.stl](Tools/LDO_9mm_pulley_alignment_helper.stl)
+- [Cable_management_clip_L.stl](Cable_management/Cable_management_clip_L.stl)
+- [Cable_management_clip_M.stl](Cable_management/Cable_management_clip_M.stl)
+- [Cable_management_clip_S.stl](Cable_management/Cable_management_clip_S.stl)
 
 ## Shared with Main Monolith Gantry
 

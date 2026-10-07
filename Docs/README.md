@@ -8,9 +8,9 @@
   </picture>
 </a>
 
-Monolith Builder guides you through assembly step by step with interactive 3D animations. It will replace the PDF manuals, which remain available during the transition.
+Monolith Builder guides you through assembly step by step with interactive 3D animations. Legacy PDF assembly manuals remain available during the transition.
 
-## PDF Manuals
+## Legacy PDF Assembly Manuals
 
 | Printer | Batch 1 | Batch 2+ |
 |---|---|---|

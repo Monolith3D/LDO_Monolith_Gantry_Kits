@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 1,
+  "format": "STEP",
+  "exportedAt": "2026-10-07T13:58:23.213229+00:00",
+  "scope": "LDO-specific configured subassemblies",
+  "files": [
+    {
+      "station": "front_right",
+      "configuration": "LDO_AWD_V2_9mm_0_FT",
+      "file": "Front_right/LDO_AWD_V2_9mm_0_FT.step",
+      "bytes": 2207675,
+      "sha256": "81bf62415d7e27c6c730a073a50f8852ec4853612b94d25ac30a9093cc2b5205",
+      "bodyCount": 34
+    },
+    {
+      "station": "front_right",
+      "configuration": "LDO_AWD_V2_9mm_0_NP",
+      "file": "Front_right/LDO_AWD_V2_9mm_0_NP.step",
+      "bytes": 2136489,
+      "sha256": "bcfafbfde5e7c0ee046e3ce8d32934858a25e5f5d4bf4464bdf8a3a9d2901588",
+      "bodyCount": 33
+    },
+    {
+      "station": "front_right",
+      "configuration": "LDO_AWD_VT_9mm_0_FT",
+      "file": "Front_right/LDO_AWD_VT_9mm_0_FT.step",
+      "bytes": 1594759,
+      "sha256": "043ba5ff0b9c70ab172512116fbc0296d55f33ff0e192c331bf68761363ac992",
+      "bodyCount": 34
+    },
+    {
+      "station": "front_right",
+      "configuration": "LDO_AWD_VT_9mm_0_NP",
+      "file": "Front_right/LDO_AWD_VT_9mm_0_NP.step",
+      "bytes": 1723164,
+      "sha256": "3c0f424b3ef8c3c28940476569e1792fd5c4b7379ef43d849fdc15f4422f57e2",
+      "bodyCount": 36
+    },
+    {
+      "station": "front_right",
+      "configuration": "LDO_2WD_V2_9mm",
+      "file": "Front_right/LDO_2WD_V2_9mm.step",
+      "bytes": 1497467,
+      "sha256": "fb36b1571e09947189daf44cb0e292562ed2eddaa95eb4e5186c168783c09410",
+      "bodyCount": 29
+    },
+    {
+      "station": "front_right",
+      "configuration": "LDO_2WD_VT_9mm",
+      "file": "Front_right/LDO_2WD_VT_9mm.step",
+      "bytes": 956587,
+      "sha256": "43826ac05b6c5f3ee570549a7fc3c0653df3386c4f485835affcac0b06209c43",
+      "bodyCount": 30
+    },
+    {
+      "station": "front_left",
+      "configuration": "LDO_AWD_V2_9mm_0_FT",
+      "file": "Front_left/LDO_AWD_V2_9mm_0_FT.step",
+      "bytes": 2249545,
+      "sha256": "d032859dccfea0738502459ed77a5118a09b8462e63524d471b40b53c5746e93",
+      "bodyCount": 34
+    },
+    {
+      "station": "front_left",
+      "configuration": "LDO_AWD_V2_9mm_0_NP",
+      "file": "Front_left/LDO_AWD_V2_9mm_0_NP.step",
+      "bytes": 2178382,
+      "sha256": "b64f70dfc0883662dff3fab4eea07cee7f5cb2770daf7a110029fd53d513fe67",
+      "bodyCount": 33
+    },
+    {
+      "station": "front_left",
+      "configuration": "LDO_AWD_VT_9mm_0_FT",
+      "file": "Front_left/LDO_AWD_VT_9mm_0_FT.step",
+      "bytes": 1617412,
+      "sha256": "3c34f69b76d982ddcb0ea24af749e60224a7fe32a4cfd9c2f3a66e4e6215592e",
+      "bodyCount": 34
+    },
+    {
+      "station": "front_left",
+      "configuration": "LDO_AWD_VT_9mm_0_NP",
+      "file": "Front_left/LDO_AWD_VT_9mm_0_NP.step",
+      "bytes": 1745821,
+      "sha256": "954db1397cb35b796799e0e6ef9f1a2e46a8b42a2f47fe0e5ca9b0fd2f51ff01",
+      "bodyCount": 36
+    },
+    {
+      "station": "front_left",
+      "configuration": "LDO_2WD_V2_9mm",
+      "file": "Front_left/LDO_2WD_V2_9mm.step",
+      "bytes": 1497551,
+      "sha256": "a472fccf62fa6454d79358aee013ed959c763ebcb89acddd2483e09911b054fd",
+      "bodyCount": 29
+    },
+    {
+      "station": "front_left",
+      "configuration": "LDO_2WD_VT_9mm",
+      "file": "Front_left/LDO_2WD_VT_9mm.step",
+      "bytes": 956639,
+      "sha256": "c17df3d410d63145d0bfb761aaef062179dae22b674a6356b1bbe09ed4c1a5fc",
+      "bodyCount": 30
+    },
+    {
+      "station": "rear_right",
+      "configuration": "LDO_V2_9mm_0_FT",
+      "file": "Rear_right/LDO_V2_9mm_0_FT.step",
+      "bytes": 2855292,
+      "sha256": "6413562aadfbb8ccdb08c23e1124b68776b22ecbaae5962837fdab55105e8904",
+      "bodyCount": 58
+    },
+    {
+      "station": "rear_right",
+      "configuration": "LDO_V2_9mm_0_NP",
+      "file": "Rear_right/LDO_V2_9mm_0_NP.step",
+      "bytes": 2784820,
+      "sha256": "c3986a6fc2f8fd4ea85a6da749560fd525243adb17cc57cfc47391d88a909f0d",
+      "bodyCount": 57
+    },
+    {
+      "station": "rear_right",
+      "configuration": "LDO_VT_9mm_0_FT",
+      "file": "Rear_right/LDO_VT_9mm_0_FT.step",
+      "bytes": 2186420,
+      "sha256": "d71b1000a481f8d5fc0e40358d6c56c0d9878d65e2a93751e9dca99aa60b7797",
+      "bodyCount": 58
+    },
+    {
+      "station": "rear_right",
+      "configuration": "LDO_VT_9mm_0_NP",
+      "file": "Rear_right/LDO_VT_9mm_0_NP.step",
+      "bytes": 2315627,
+      "sha256": "398e1ddb5acf5e3331c3a2bf5d2ab3d7de7196055a5138912d4dff47f7345914",
+      "bodyCount": 60
+    },
+    {
+      "station": "rear_left",
+      "configuration": "LDO_V2_9mm_0_FT",
+      "file": "Rear_left/LDO_V2_9mm_0_FT.step",
+      "bytes": 2918248,
+      "sha256": "549e310070c11e2fe3452d1c938fc2154bb8aaf39dabd71d53c4408f590d8a4b",
+      "bodyCount": 58
+    },
+    {
+      "station": "rear_left",
+      "configuration": "LDO_V2_9mm_0_NP",
+      "file": "Rear_left/LDO_V2_9mm_0_NP.step",
+      "bytes": 2847758,
+      "sha256": "ff754af0856c25b142df778c6b120aa20e78723e55e14494aee15c35405edb28",
+      "bodyCount": 57
+    },
+    {
+      "station": "rear_left",
+      "configuration": "LDO_VT_9mm_0_FT",
+      "file": "Rear_left/LDO_VT_9mm_0_FT.step",
+      "bytes": 2228792,
+      "sha256": "d9aea46d4d18382f431a6fc388d7a46848b97ca2066d19c047bc65f5078437f0",
+      "bodyCount": 58
+    },
+    {
+      "station": "rear_left",
+      "configuration": "LDO_VT_9mm_0_NP",
+      "file": "Rear_left/LDO_VT_9mm_0_NP.step",
+      "bytes": 2358059,
+      "sha256": "795ba7eccb5e955f365859a61645c9478e3a1823cd7ff0a16f43fe5daae89575",
+      "bodyCount": 60
+    },
+    {
+      "station": "xy_right",
+      "configuration": "LDO_2WD_9mm",
+      "file": "XY_right/LDO_2WD_9mm.step",
+      "bytes": 1679920,
+      "sha256": "cfd1c4fc3fbc85ce3f90182568044c902093810f9952790a6c6c5f6dd4c11a50",
+      "bodyCount": 42
+    },
+    {
+      "station": "xy_right",
+      "configuration": "LDO_AWD_9mm",
+      "file": "XY_right/LDO_AWD_9mm.step",
+      "bytes": 1679897,
+      "sha256": "e3cf373f47980601a34f1834cf81db67d14e9d295fdb91c1c84edb1075064e84",
+      "bodyCount": 42
+    },
+    {
+      "station": "xy_left",
+      "configuration": "LDO_2WD_9mm",
+      "file": "XY_left/LDO_2WD_9mm.step",
+      "bytes": 1680164,
+      "sha256": "71fff413e58d8c246d2c9ed7d28f116fecf855156ec4c7265848f00c74f610c6",
+      "bodyCount": 42
+    },
+    {
+      "station": "xy_left",
+      "configuration": "LDO_AWD_9mm",
+      "file": "XY_left/LDO_AWD_9mm.step",
+      "bytes": 1680105,
+      "sha256": "79dac410daa88ae240191da9b1251b42463df7103b028cb065a432d89a26ec2d",
+      "bodyCount": 42
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_Hybrid_V2_9mm_B_D_FT",
+      "file": "Z_joint/LDO_Hybrid_V2_9mm_B_D_FT.step",
+      "bytes": 2786427,
+      "sha256": "3fd09c360ceb7ac5a34c012c5e0f301815ac249023575ded029e12f6c52f9976",
+      "bodyCount": 44
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_Hybrid_V2_9mm_B_D_NP",
+      "file": "Z_joint/LDO_Hybrid_V2_9mm_B_D_NP.step",
+      "bytes": 2904100,
+      "sha256": "f94b92804ea5ea7d4d81fadd1ad6532826b4e379c0fe8e6647525117d0194e5f",
+      "bodyCount": 46
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_Hybrid_V2_9mm_B_S_FT",
+      "file": "Z_joint/LDO_Hybrid_V2_9mm_B_S_FT.step",
+      "bytes": 1894423,
+      "sha256": "876f49fb9bf68394f9e1c9914ca2a285190af21b88c464b72876fd1859639f4c",
+      "bodyCount": 24
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_Hybrid_V2_9mm_B_S_NP",
+      "file": "Z_joint/LDO_Hybrid_V2_9mm_B_S_NP.step",
+      "bytes": 2010655,
+      "sha256": "08d3d4c35c96484a5bc34df738f9d5a9af55e0dc06f3799381736a8638ef1102",
+      "bodyCount": 25
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_Milled_V2_9mm_D_FT",
+      "file": "Z_joint/LDO_Milled_V2_9mm_D_FT.step",
+      "bytes": 653607,
+      "sha256": "42be801c392319a9fcaa8210bd33704d7e269ff89fec2e439e9d989f603c8fd6",
+      "bodyCount": 34
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_Milled_V2_9mm_D_NP",
+      "file": "Z_joint/LDO_Milled_V2_9mm_D_NP.step",
+      "bytes": 653607,
+      "sha256": "81eeaceb924b65294db1b820462e6f462871756e1f65ddd282ad2c257dc828b4",
+      "bodyCount": 34
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_Milled_V2_9mm_S_FT",
+      "file": "Z_joint/LDO_Milled_V2_9mm_S_FT.step",
+      "bytes": 648461,
+      "sha256": "a61865ad16b83cf4b6b90a1f33a89677f5ed99d5f461199b872847f729a7b964",
+      "bodyCount": 19
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_Milled_V2_9mm_S_NP",
+      "file": "Z_joint/LDO_Milled_V2_9mm_S_NP.step",
+      "bytes": 648461,
+      "sha256": "2627d2a664f174f43dadf23dd5697ac79123f5ef7b704dfd61bbea5733209694",
+      "bodyCount": 19
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_Hybrid_V2_9mm_A_D_FT",
+      "file": "Z_joint/LDO_Hybrid_V2_9mm_A_D_FT.step",
+      "bytes": 2786823,
+      "sha256": "36c4e0f42edaf10a7b4c0e1cd9200b846e524151161e50c067973ab7c1d972b7",
+      "bodyCount": 44
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_Hybrid_V2_9mm_A_D_NP",
+      "file": "Z_joint/LDO_Hybrid_V2_9mm_A_D_NP.step",
+      "bytes": 2904748,
+      "sha256": "9187429e237a8e8fc717464901c4518cf88d5df80d2be708a04666d86b81f41a",
+      "bodyCount": 46
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_Hybrid_V2_9mm_A_S_FT",
+      "file": "Z_joint/LDO_Hybrid_V2_9mm_A_S_FT.step",
+      "bytes": 1899027,
+      "sha256": "379a361bc554568d9db45e0b3960a1c5e16f796299889c0bd89c1dc0e97aea95",
+      "bodyCount": 24
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_Hybrid_V2_9mm_A_S_NP",
+      "file": "Z_joint/LDO_Hybrid_V2_9mm_A_S_NP.step",
+      "bytes": 2015261,
+      "sha256": "768bb55ddede328aac38d418d0ca932d22051f50b13e5e4ecec95bbfdfc52325",
+      "bodyCount": 25
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_SLM_V2_9mm_S_NP",
+      "file": "Z_joint/LDO_SLM_V2_9mm_S_NP.step",
+      "bytes": 1162464,
+      "sha256": "04e45dcaf16b2308dcc1b1912c605fd1ab488cbfa93477d2bb139263d7fc6a84",
+      "bodyCount": 24
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_SLM_V2_9mm_S_FT",
+      "file": "Z_joint/LDO_SLM_V2_9mm_S_FT.step",
+      "bytes": 1146393,
+      "sha256": "f340ca3debff4efc8ea7bb346752ee0ee40d332d28a6c52311e7c67a655c91d5",
+      "bodyCount": 20
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_SLM_V2_9mm_D_FT",
+      "file": "Z_joint/LDO_SLM_V2_9mm_D_FT.step",
+      "bytes": 1152234,
+      "sha256": "87776dd2eab473d398391a755e3eae35d41a60c8cedaea34d28930bfbb93b770",
+      "bodyCount": 36
+    },
+    {
+      "station": "z_joint",
+      "configuration": "LDO_SLM_V2_9mm_D_NP",
+      "file": "Z_joint/LDO_SLM_V2_9mm_D_NP.step",
+      "bytes": 1171245,
+      "sha256": "41690248e4efd4d63c4c996633aacc9480aea698f4db4260ca096dd5b006b0d7",
+      "bodyCount": 44
+    }
+  ]
+}
