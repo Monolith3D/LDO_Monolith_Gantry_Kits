@@ -9,12 +9,12 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Pulley_alignment_helper.step',
-/* time_stamp */ '2026-04-01T17:16:04+02:00',
+/* name */ 'LDO_9mm_pulley_alignment_helper.step',
+/* time_stamp */ '2026-10-08T14:46:30+02:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v20.1',
-/* originating_system */ 'Autodesk Translation Framework v14.24.0.0',
+/* preprocessor_version */ 'ST-DEVELOPER v20.2',
+/* originating_system */ 'Autodesk Translation Framework v15.15.0.0',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -24,7 +24,7 @@ DATA;
 #10=MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION('',(#13),#5795);
 #11=SHAPE_REPRESENTATION_RELATIONSHIP('SRR','None',#5802,#12);
 #12=ADVANCED_BREP_SHAPE_REPRESENTATION('',(#14),#5794);
-#13=STYLED_ITEM('',(#5812),#14);
+#13=STYLED_ITEM('',(#5811),#14);
 #14=MANIFOLD_SOLID_BREP('Body2',#3221);
 #15=B_SPLINE_SURFACE_WITH_KNOTS('',3,1,((#4726,#4727),(#4728,#4729),(#4730,
 #4731),(#4732,#4733),(#4734,#4735)),.UNSPECIFIED.,.F.,.F.,.F.,(4,1,4),(2,
@@ -3525,12 +3525,12 @@ SI_UNIT(.KILO.,.GRAM.)
 );
 #3225=DERIVED_UNIT((#3222,#3223));
 #3226=MEASURE_REPRESENTATION_ITEM('density measure',
-POSITIVE_RATIO_MEASURE(1060.),#3225);
+POSITIVE_RATIO_MEASURE(7850.),#3225);
 #3227=PROPERTY_DEFINITION_REPRESENTATION(#3232,#3229);
 #3228=PROPERTY_DEFINITION_REPRESENTATION(#3233,#3230);
 #3229=REPRESENTATION('material name',(#3231),#5794);
 #3230=REPRESENTATION('density',(#3226),#5794);
-#3231=DESCRIPTIVE_REPRESENTATION_ITEM('ABS Plastic','ABS Plastic');
+#3231=DESCRIPTIVE_REPRESENTATION_ITEM('Steel','Steel');
 #3232=PROPERTY_DEFINITION('material property','material name',#5804);
 #3233=PROPERTY_DEFINITION('material property','density of part',#5804);
 #3234=AXIS2_PLACEMENT_3D('',#4133,#3425,#3426);
@@ -6144,32 +6144,24 @@ SOLID_ANGLE_UNIT()
 #5801=PRODUCT_DEFINITION_SHAPE('',$,#5804);
 #5802=SHAPE_REPRESENTATION('',(#3234),#5794);
 #5803=PRODUCT_DEFINITION_CONTEXT('part definition',#5808,'design');
-#5804=PRODUCT_DEFINITION('LDO_9mm_kit_pulley_alignment_helper',
-'LDO_9mm_kit_pulley_alignment_helper v5',#5805,#5803);
+#5804=PRODUCT_DEFINITION('2026-10-08-14-46-30-092',
+'LDO_9mm_pulley_alignment_helper',#5805,#5803);
 #5805=PRODUCT_DEFINITION_FORMATION('',$,#5810);
 #5806=PRODUCT_RELATED_PRODUCT_CATEGORY(
-'LDO_9mm_kit_pulley_alignment_helper v5',
-'LDO_9mm_kit_pulley_alignment_helper v5',(#5810));
+'LDO_9mm_pulley_alignment_helper','LDO_9mm_pulley_alignment_helper',(#5810));
 #5807=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#5808);
 #5808=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #5809=PRODUCT_CONTEXT('part definition',#5808,'mechanical');
-#5810=PRODUCT('LDO_9mm_kit_pulley_alignment_helper',
-'LDO_9mm_kit_pulley_alignment_helper v5',$,(#5809));
-#5811=PRESENTATION_STYLE_ASSIGNMENT((#5813));
-#5812=PRESENTATION_STYLE_ASSIGNMENT((#5814));
-#5813=SURFACE_STYLE_USAGE(.BOTH.,#5815);
-#5814=SURFACE_STYLE_USAGE(.BOTH.,#5816);
-#5815=SURFACE_SIDE_STYLE('',(#5817));
-#5816=SURFACE_SIDE_STYLE('',(#5818));
-#5817=SURFACE_STYLE_FILL_AREA(#5819);
-#5818=SURFACE_STYLE_FILL_AREA(#5820);
-#5819=FILL_AREA_STYLE('ABS (White)',(#5821));
-#5820=FILL_AREA_STYLE('ABS (Purple)',(#5822));
-#5821=FILL_AREA_STYLE_COLOUR('ABS (White)',#5823);
-#5822=FILL_AREA_STYLE_COLOUR('ABS (Purple)',#5824);
-#5823=COLOUR_RGB('ABS (White)',0.964705882352941,0.964705882352941,0.952941176470588);
-#5824=COLOUR_RGB('ABS (Purple)',0.392156862745098,0.,0.784313725490196);
+#5810=PRODUCT('2026-10-08-14-46-30-092',
+'LDO_9mm_pulley_alignment_helper',$,(#5809));
+#5811=PRESENTATION_STYLE_ASSIGNMENT((#5812));
+#5812=SURFACE_STYLE_USAGE(.BOTH.,#5813);
+#5813=SURFACE_SIDE_STYLE('',(#5814));
+#5814=SURFACE_STYLE_FILL_AREA(#5815);
+#5815=FILL_AREA_STYLE('Steel - Satin',(#5816));
+#5816=FILL_AREA_STYLE_COLOUR('Steel - Satin',#5817);
+#5817=COLOUR_RGB('Steel - Satin',0.627450980392157,0.627450980392157,0.627450980392157);
 ENDSEC;
 END-ISO-10303-21;
