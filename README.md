@@ -8,7 +8,7 @@ Official milled [Monolith Gantry](https://github.com/Monolith3D/Monolith_Gantry)
 
 ## Start Here
 
-<a href="https://build.monolith3d.xyz/">
+<a href="https://build.monolith3d.xyz/#gantry">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monolith3D/MISC/main/Common_repo_files/monolith-builder-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monolith3D/MISC/main/Common_repo_files/monolith-builder-light.png">
@@ -32,10 +32,10 @@ Monolith Builder guides you through assembly step by step with interactive 3D an
 
 **Vendors**
 
-- US: [West3D](https://west3d.com/products/monolith-cnc-gantry-by-ldo-systems-v2-4-and-trident-compatible-with-2wd-and-awd), [Fabreeko](https://www.fabreeko.com/products/monolith-gantry-cnc-kit-by-ldo), [KB-3D](https://kb-3d.com/store/motion/8785-9638-ldo-monolith-awd-9mm-cnc-gantry-kit-r1-multiple-types.html)
+- US: [West3D](https://west3d.com/products/monolith-cnc-gantry-by-ldo-systems-v2-4-and-trident-compatible-with-2wd-and-awd), [Fabreeko](https://www.fabreeko.com/products/monolith-gantry-cnc-kit-by-ldo), [KB-3D](https://kb-3d.com/store/motion/8785-9638-ldo-monolith-awd-9mm-cnc-gantry-kit-r1-multiple-types.html), [Stay Ready To 3D Print](https://www.stayreadyto3dprint.com/products/monolith-cnc-gantry-by-ldo-systems-v2-4-and-trident-compatible-with-2wd-and-awd)
 - Canada: [3D Lab Tech](https://www.3dlabtech.ca/product/ldo-monolith-cnc-gantry-kit/)
-- Australia: [Dremc](https://store.dremc.com.au/products/ldo-monolith-cnc-gantry-kit-v2-4-trident?_pos=2&_sid=165a04a36&_ss=r)
-- UK: 123-3D ([V2](https://www.123-3d.co.uk/LDO-Monolith-CNC-Gantry-KIT-Voron-2-4-LDO-MLG-V2-i15158.html), [Trident](https://www.123-3d.co.uk/LDO-Monolith-CNC-Gantry-KIT-Voron-Trident-LDO-MLG-VT-i15159.html)), [onetwo3D](https://www.onetwo3d.co.uk/product/ldo-monolith-cnc-gantry-kit/), [JB3D](https://jb3d.uk/product/cnc-monolith-gantry-by-cloakedwayne/)
+- Australia: [Dremc](https://store.dremc.com.au/products/ldo-monolith-cnc-gantry-kit-v2-4-trident)
+- UK: 123-3D ([V2](https://www.123-3d.co.uk/products/ldo-monolith-cnc-gantry-kit-voron-2-4), [Trident](https://www.123-3d.co.uk/products/ldo-monolith-cnc-gantry-kit-voron-trident)), [onetwo3D](https://www.onetwo3d.co.uk/product/ldo-monolith-cnc-gantry-kit/), [JB3D](https://jb3d.uk/product/cnc-monolith-gantry-by-cloakedwayne/)
 - Germany: [3DPartner](https://www.partner-3d.de/3d-druck-ersatzteile/)
 - France: [MyRigs](https://myrigs3d.com/products/monolith-cnc-gantry-by-ldo-systems-v2-4-and-trident-compatible-with-2wd-and-awd)
 - Hungary: Zen3D Laboratories ([V2](https://shop.zen3d.eu/cnc-monolith-gantry), [Trident](https://shop.zen3d.eu/cnc-monolith-gantry-trident))

@@ -1,6 +1,6 @@
 ## Monolith Builder
 
-<a href="https://build.monolith3d.xyz/">
+<a href="https://build.monolith3d.xyz/#gantry">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monolith3D/MISC/main/Common_repo_files/monolith-builder-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monolith3D/MISC/main/Common_repo_files/monolith-builder-light.png">
